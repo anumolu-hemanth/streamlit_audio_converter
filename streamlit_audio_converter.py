@@ -1,6 +1,7 @@
 import streamlit as st
 import time
 from TTS.api import TTS
+from espeakng import ESpeakNG
 
 st.title("Text to Voice Conversion")
 
